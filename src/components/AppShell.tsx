@@ -16,7 +16,7 @@ export function AppShell({ title, children }: { title: string; children: ReactNo
       <div className="mx-auto flex min-h-screen max-w-md flex-col">
         <header className="sticky top-0 z-10 border-b border-stone-200/70 bg-[#fbf6ee]/90 px-5 py-4 backdrop-blur">
           <p className="text-xs font-semibold uppercase tracking-widest text-amber-700">
-            FamilyFlow
+            Family Flow
           </p>
           <h1 className="mt-0.5 text-2xl font-bold text-stone-900">{title}</h1>
         </header>
